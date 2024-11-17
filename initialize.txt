@@ -1,0 +1,7 @@
+pnpm install 
+
+Run the Scripts Using pnpm:
+
+pnpm run dev     # Starts the development server
+pnpm run build   # Builds the application for production
+pnpm run start   # Starts the production server
